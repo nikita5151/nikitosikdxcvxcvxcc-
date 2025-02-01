@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+background-color:gray;
+padding:5px;
+}
+
+h1{
+background-color:palegreen ;
+
+}
+
+footer {
+background-color:aqua;
+
+}
+footer p {
+background-color:aliceblue;
+
+}
